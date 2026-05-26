@@ -12,7 +12,15 @@
       "Bash(node *)",
       "Bash(git remote *)",
       "Bash(git branch *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(pip show *)",
+      "Bash(python3 -c \"from playwright.sync_api import sync_playwright; print\\('ok'\\)\")",
+      "Bash(npx --yes playwright --version)",
+      "Bash(xargs ls -la)",
+      "Bash(npx playwright *)",
+      "Bash(npm list *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
     ]
   }
 }
